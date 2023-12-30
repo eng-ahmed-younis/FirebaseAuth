@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase Auth</string>
+    <string name="welcome_back">welcome back</string>
+    <string name="sign_in_continue">Sign In</string>
+</resources>

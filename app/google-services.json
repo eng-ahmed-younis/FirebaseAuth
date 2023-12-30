@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495472639490",
+    "project_id": "fir-auth08",
+    "storage_bucket": "fir-auth08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495472639490:android:126617dcc6b78a7243f11b",
+        "android_client_info": {
+          "package_name": "com.florinda.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnrdVVE-fGYCfA_DgSOvTzL3aDmk1Gc24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
